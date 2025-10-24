@@ -47,7 +47,7 @@ by going to Simulation ⇒ Start
 
 ## Output
 A=30
-<img width="1918" height="934" alt="image" src="https://github.com/user-attachments/assets/53937551-48ff-4c5b-90cb-a04f1b877b4d" />
+<img width="1918" height="931" alt="image" src="https://github.com/user-attachments/assets/d54c2c70-1702-4419-b078-a2c74462b369" />
 A=90
 <img width="1710" height="821" alt="image" src="https://github.com/user-attachments/assets/6c52acb2-9eaf-4a11-afad-09911d99c6f2" />
 A=60
