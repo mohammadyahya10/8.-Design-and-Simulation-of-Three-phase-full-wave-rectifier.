@@ -43,7 +43,14 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+<img width="1339" height="638" alt="image" src="https://github.com/user-attachments/assets/0b899ac1-c8cb-40e2-b297-2e5e6081ff70" />
 
 ## Output
-
+A=30
+<img width="1918" height="931" alt="image" src="https://github.com/user-attachments/assets/f21e2b95-d3a1-41fc-9ac4-d6e65a478ee8" />
+A=90
+<img width="1916" height="927" alt="image" src="https://github.com/user-attachments/assets/1553199e-49d5-46fa-8a12-016ecf6dbb2b" />
+A=60
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/04819f4a-56b9-429b-8d0c-62bb6469a7f1" />
 ## Result
+THUS,THE EXPERIMENT HAS SIMULATED AND THE OUTPUT IS VERIFIED USING MATLAB.
